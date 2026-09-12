@@ -1,0 +1,21 @@
+# Power BI
+*.pbix
+*.pbit
+*.bak
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
