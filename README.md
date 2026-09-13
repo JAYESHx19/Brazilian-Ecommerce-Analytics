@@ -130,26 +130,28 @@ Through this project, I practiced working with a multi-table dataset, writing SQ
 
 ## Key Findings / Business Insights
 
-Sales were concentrated in a small group of product categories.
-Health & Beauty generated the highest category revenue at about R$1.3M, followed by Watches & Gifts (~R$1.2M), Bed & Bath (~R$1.1M), Sports & Leisure (~R$1.0M), and Computers & Accessories (~R$0.9M).
+Repeat customers
+Calculated repeat customers and compared them with total customers. The dashboard shows ~2.997K repeat customers out
+of 96.09K, or ~3.1%.
 
-The customer base was dominated by one-time buyers.
-Of approximately 96.1K customers, only 2.997K were repeat customers, giving a repeat-customer rate of about 3.1%. This suggests a significant opportunity to improve customer retention and repeat purchases.
+Delivery vs satisfaction
+Grouped/compared average delivery days by review score. The displayed pattern goes from roughly 21–22 days for 1-star
+reviews to roughly 10–11 days for 5-star reviews.
 
-Customer satisfaction was strongly associated with delivery time.
-Average delivery time decreased from roughly 21–22 days for 1-star reviews to about 10–11 days for 5-star reviews. This indicates a clear relationship between faster delivery and higher customer ratings.
+Category revenue
+Aggregated product-item price by product category and ranked categories. Health & Beauty is displayed at about R$1.3M,
+followed by other leading categories.
 
-Most customer reviews were positive.
-5-star reviews were by far the largest group, at roughly 57K reviews, while 4-star reviews were around 19K. Lower ratings were considerably less frequent, indicating generally positive customer sentiment despite delivery differences.
-Credit cards dominated payment activity and value.
+Payment behavior
+Grouped payment records by payment type and compared payment count/value. Credit card is the dominant payment type in
+the dashboard.
 
-Credit-card payments represented the largest share of payment transactions and contributed the highest payment value, substantially ahead of boleto and other payment methods.
-Seller performance was concentrated among a relatively small group of sellers.
+Seller performance
+Aggregated item revenue by seller and ranked sellers. The dashboard shows a small group of top sellers contributing
+substantially more revenue than many individual sellers.
 
-The top sellers generated around R$0.19M–R$0.23M each, while the broader seller base was much smaller individually. This indicates a long-tail seller structure where a limited number of sellers contribute disproportionately to marketplace revenue.
-
-Delivery performance varied considerably across customer states.
-Logistics analysis shows average delivery times ranging roughly from 19 to 27 days among the displayed states, suggesting geographic differences in fulfillment performance that could affect customer experience.
+State delivery performance
+Calculated average delivery days by customer state. The displayed examples range roughly from 19 to 27 days.
 
 
 ## Dataset
