@@ -128,6 +128,30 @@ Brazilian-Ecommerce-Analytics/
 
 Through this project, I practiced working with a multi-table dataset, writing SQL queries, creating relationships between tables, creating DAX measures, and building an interactive Power BI dashboard.
 
+## Key Findings / Business Insights
+
+Sales were concentrated in a small group of product categories.
+Health & Beauty generated the highest category revenue at about R$1.3M, followed by Watches & Gifts (~R$1.2M), Bed & Bath (~R$1.1M), Sports & Leisure (~R$1.0M), and Computers & Accessories (~R$0.9M).
+
+The customer base was dominated by one-time buyers.
+Of approximately 96.1K customers, only 2.997K were repeat customers, giving a repeat-customer rate of about 3.1%. This suggests a significant opportunity to improve customer retention and repeat purchases.
+
+Customer satisfaction was strongly associated with delivery time.
+Average delivery time decreased from roughly 21–22 days for 1-star reviews to about 10–11 days for 5-star reviews. This indicates a clear relationship between faster delivery and higher customer ratings.
+
+Most customer reviews were positive.
+5-star reviews were by far the largest group, at roughly 57K reviews, while 4-star reviews were around 19K. Lower ratings were considerably less frequent, indicating generally positive customer sentiment despite delivery differences.
+Credit cards dominated payment activity and value.
+
+Credit-card payments represented the largest share of payment transactions and contributed the highest payment value, substantially ahead of boleto and other payment methods.
+Seller performance was concentrated among a relatively small group of sellers.
+
+The top sellers generated around R$0.19M–R$0.23M each, while the broader seller base was much smaller individually. This indicates a long-tail seller structure where a limited number of sellers contribute disproportionately to marketplace revenue.
+
+Delivery performance varied considerably across customer states.
+Logistics analysis shows average delivery times ranging roughly from 19 to 27 days among the displayed states, suggesting geographic differences in fulfillment performance that could affect customer experience.
+
+
 ## Dataset
 
 Brazilian E-Commerce Public Dataset by Olist.
